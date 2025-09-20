@@ -3,7 +3,7 @@
 
 UrbanWardrobe is an e-commerce website specializing in a wide range of fashion products including clothing, watches, shoes, and accessories. Built using HTML, CSS, and JavaScript, the website is fully responsive, ensuring a seamless user experience across devices.
 
-### Weblink: [Live Website](https://urban-wardrobe.netlify.app/)
+
 
 ## Some Images:
 <img width="450px;" src="https://raw.githubusercontent.com/aaryan-gupta03/Wardrobe-E-Commerce-Website/main/website-demo-images/desktop.png"/>
